@@ -11280,7 +11280,7 @@
 		)
 		(uuid "146b9fb8-5f26-491b-8d99-ae3e4bdbf14e")
 	)
-	(text "R704 sets the constant\ncharging current at ~300mA\n(p. 14 of the datasheet)"
+	(text "R106 sets the constant\ncharging current at ~300mA\n(p. 14 of the datasheet)"
 		(exclude_from_sim no)
 		(at 215.646 81.788 0)
 		(effects
